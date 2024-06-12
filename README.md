@@ -6,7 +6,7 @@
 
 *Threading, pausing, data collection/analysis should be added to the later iterations.*
 
-*You can see a sample of the bot here:* 
+*You can see a sample of the bot here:* https://jumpshare.com/s/BUaBkccVoKvSBQoDzhRX
  
 USAGE:
 
