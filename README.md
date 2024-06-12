@@ -1,4 +1,9 @@
 # adlibBot
+
+*Product-market research tool for marketing agencies and ecommerce brands*
+*The bot takes your search terms and filters for active, video ads. Active video ads are attributed to prospecting ads run by profitable businesses, as opposed to image-retargeting ads.*
+
+*You can see a sample of the bot here:* 
  
 USAGE:
 
