@@ -2,9 +2,9 @@
 
 *Product-market research tool for marketing agencies and ecommerce brands.*
 
-*The bot takes your search terms and filters for active video ads. Active video ads are attributed to prospecting ads run by profitable businesses.*
+*The bot takes your search terms and filters for active video ads on the Meta ad library. Active video ads are attributed to prospecting ads run by profitable businesses.*
 
-*Threading, pausing, data collection/analysis should be added to the later iterations.*
+*Threading, pausing, data collection/analysis should be added to later iterations.*
 
 *You can see a sample of the bot here:* https://jumpshare.com/s/BUaBkccVoKvSBQoDzhRX
  
